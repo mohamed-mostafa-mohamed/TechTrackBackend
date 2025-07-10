@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CMS.BL",
+    "\\CMS.BL\\Service",
+    "\\CMS.BL\\Service\\SenderInfoService",
+    "\\CMS.DAL",
+    "\\CMS.DAL\\Repo",
+    "\\CMS.DAL\\Repo\\GenericRepo",
+    "\\CMS.DAL\\Repo\\OrderInfoRepo",
+    "\\CMS.PL",
+    "\\CMS.PL\\Controllers"
+  ],
+  "SelectedNode": "\\CMS.DAL\\Repo\\OrderInfoRepo\\OrderInfoRepo.cs",
+  "PreviewInSolutionExplorer": false
+}

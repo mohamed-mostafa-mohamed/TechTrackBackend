@@ -1,0 +1,6 @@
+@CMS.PL_HostAddress = http://localhost:5269
+
+GET {{CMS.PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

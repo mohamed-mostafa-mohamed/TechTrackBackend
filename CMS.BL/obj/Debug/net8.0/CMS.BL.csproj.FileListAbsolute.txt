@@ -1,0 +1,15 @@
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.deps.json
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.pdb
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.DAL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.DAL.pdb
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.AssemblyReference.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfoInputs.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfo.cs
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.CopyComplete
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\refint\CMS.BL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.pdb
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\ref\CMS.BL.dll
