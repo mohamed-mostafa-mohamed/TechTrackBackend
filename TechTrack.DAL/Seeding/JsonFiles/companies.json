@@ -1,0 +1,16 @@
+[
+  {
+    "CompanyId": 1,
+    "CompanyName": "TechCorp",
+    "Industry": "Software",
+    "WebsiteUrl": "https://techcorp.com",
+    "Description": "A leading tech company"
+  },
+  {
+    "CompanyId": 2,
+    "CompanyName": "DataSolutions",
+    "Industry": "Data Science",
+    "WebsiteUrl": "https://datasolutions.com",
+    "Description": "Data science solutions provider"
+  }
+]

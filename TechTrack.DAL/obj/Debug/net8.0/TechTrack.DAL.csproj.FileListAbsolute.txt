@@ -1,0 +1,15 @@
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\bin\Debug\net8.0\TechTrack.DAL.deps.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\bin\Debug\net8.0\TechTrack.DAL.runtimeconfig.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\bin\Debug\net8.0\TechTrack.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\bin\Debug\net8.0\TechTrack.DAL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.csproj.AssemblyReference.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.AssemblyInfoInputs.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.AssemblyInfo.cs
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.sourcelink.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\refint\TechTrack.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\TechTrack.DAL.genruntimeconfig.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\ref\TechTrack.DAL.dll

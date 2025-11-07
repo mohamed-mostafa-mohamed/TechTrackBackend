@@ -1,0 +1,59 @@
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.deps.json
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.runtimeconfig.json
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.pdb
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.csproj.AssemblyReference.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.AssemblyInfoInputs.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.AssemblyInfo.cs
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\refint\CMS.DAL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.pdb
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.genruntimeconfig.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\ref\CMS.DAL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.deps.json
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.runtimeconfig.json
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.pdb
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.csproj.AssemblyReference.cache
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.AssemblyInfoInputs.cache
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.AssemblyInfo.cs
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.sourcelink.json
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\refint\CMS.DAL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.pdb
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.genruntimeconfig.cache
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\ref\CMS.DAL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.deps.json
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.runtimeconfig.json
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\bin\Debug\net8.0\CMS.DAL.pdb
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.csproj.AssemblyReference.cache
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.AssemblyInfoInputs.cache
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.AssemblyInfo.cs
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.sourcelink.json
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\refint\CMS.DAL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.pdb
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\CMS.DAL.genruntimeconfig.cache
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.DAL\obj\Debug\net8.0\ref\CMS.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\bin\Debug\net8.0\CMS.DAL.deps.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\bin\Debug\net8.0\CMS.DAL.runtimeconfig.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\bin\Debug\net8.0\CMS.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\bin\Debug\net8.0\CMS.DAL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.csproj.AssemblyReference.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.AssemblyInfoInputs.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.AssemblyInfo.cs
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.sourcelink.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\refint\CMS.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\CMS.DAL.genruntimeconfig.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.DAL\obj\Debug\net8.0\ref\CMS.DAL.dll

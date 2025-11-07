@@ -1,0 +1,26 @@
+[
+  {
+    "SubCategoryId": 1,
+    "SubCategoryName": "C# Basics",
+    "Description": "Learn basics of C#",
+    "DifficultyLevel": "Beginner",
+    "EstimatedDuration": 20,
+    "CategoryId": 1
+  },
+  {
+    "SubCategoryId": 2,
+    "SubCategoryName": "Python for Data Science",
+    "Description": "Python basics and libraries",
+    "DifficultyLevel": "Beginner",
+    "EstimatedDuration": 25,
+    "CategoryId": 2
+  },
+  {
+    "SubCategoryId": 3,
+    "SubCategoryName": "DevOps Tools",
+    "Description": "Learn CI/CD and containerization",
+    "DifficultyLevel": "Intermediate",
+    "EstimatedDuration": 30,
+    "CategoryId": 3
+  }
+]

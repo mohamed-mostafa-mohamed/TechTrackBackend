@@ -1,0 +1,26 @@
+[
+  {
+    "TrackId": 1,
+    "TrackName": "C# Fundamentals",
+    "Description": "Learn C# from scratch",
+    "DifficultyLevel": "Beginner",
+    "EstimatedDuration": 20,
+    "SubCategoryId": 1
+  },
+  {
+    "TrackId": 2,
+    "TrackName": "Python Data Analysis",
+    "Description": "Analyze data using Python",
+    "DifficultyLevel": "Intermediate",
+    "EstimatedDuration": 30,
+    "SubCategoryId": 2
+  },
+  {
+    "TrackId": 3,
+    "TrackName": "Docker & Kubernetes",
+    "Description": "Learn containerization and orchestration",
+    "DifficultyLevel": "Intermediate",
+    "EstimatedDuration": 25,
+    "SubCategoryId": 3
+  }
+]

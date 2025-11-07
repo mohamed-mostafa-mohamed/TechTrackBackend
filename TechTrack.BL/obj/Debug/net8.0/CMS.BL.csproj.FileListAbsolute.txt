@@ -1,0 +1,63 @@
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.deps.json
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.pdb
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.DAL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.DAL.pdb
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.AssemblyReference.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfoInputs.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfo.cs
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.CopyComplete
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\refint\CMS.BL.dll
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.pdb
+C:\Users\01\source\repos\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\ref\CMS.BL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.deps.json
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.pdb
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.DAL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.DAL.pdb
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.AssemblyReference.cache
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfoInputs.cache
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfo.cs
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.CoreCompileInputs.cache
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.sourcelink.json
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.Up2Date
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\refint\CMS.BL.dll
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.pdb
+D:\Projects\Asp .Net Web Api\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\ref\CMS.BL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.deps.json
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.BL.pdb
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.DAL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\bin\Debug\net8.0\CMS.DAL.pdb
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.AssemblyReference.cache
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfoInputs.cache
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfo.cs
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.sourcelink.json
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.Up2Date
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\refint\CMS.BL.dll
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\CMS.BL.pdb
+C:\Users\Gelba\Desktop\CourierManagementSystem\CMS.BL\obj\Debug\net8.0\ref\CMS.BL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\CMS.BL.deps.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\CMS.BL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\CMS.BL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\CMS.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\CMS.DAL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.AssemblyReference.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfoInputs.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.AssemblyInfo.cs
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.sourcelink.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.csproj.Up2Date
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\refint\CMS.BL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\CMS.BL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\ref\CMS.BL.dll

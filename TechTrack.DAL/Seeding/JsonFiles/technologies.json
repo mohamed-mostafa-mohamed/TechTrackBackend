@@ -1,0 +1,30 @@
+[
+  {
+    "TechnologyId": 1,
+    "TechnologyName": "C#",
+    "Description": "C# programming language",
+    "VideoUrl": null,
+    "TrackId": 1
+  },
+  {
+    "TechnologyId": 2,
+    "TechnologyName": "Python",
+    "Description": "Python programming language",
+    "VideoUrl": null,
+    "TrackId": 2
+  },
+  {
+    "TechnologyId": 3,
+    "TechnologyName": "Docker",
+    "Description": "Docker container platform",
+    "VideoUrl": null,
+    "TrackId": 3
+  },
+  {
+    "TechnologyId": 4,
+    "TechnologyName": "Kubernetes",
+    "Description": "Kubernetes orchestration",
+    "VideoUrl": null,
+    "TrackId": 3
+  }
+]

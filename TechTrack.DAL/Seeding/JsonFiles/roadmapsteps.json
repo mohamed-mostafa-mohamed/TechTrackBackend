@@ -1,0 +1,30 @@
+[
+  {
+    "RoadmapStepId": 1,
+    "RoadmapId": 1,
+    "StepTitle": "Learn C# Basics",
+    "StepDescription": "Variables, loops, and conditions",
+    "StepOrder": 1
+  },
+  {
+    "RoadmapStepId": 2,
+    "RoadmapId": 1,
+    "StepTitle": "OOP in C#",
+    "StepDescription": "Classes, inheritance, interfaces",
+    "StepOrder": 2
+  },
+  {
+    "RoadmapStepId": 3,
+    "RoadmapId": 2,
+    "StepTitle": "Python Basics",
+    "StepDescription": "Syntax, lists, dictionaries",
+    "StepOrder": 1
+  },
+  {
+    "RoadmapStepId": 4,
+    "RoadmapId": 2,
+    "StepTitle": "Pandas & Numpy",
+    "StepDescription": "Data manipulation and analysis",
+    "StepOrder": 2
+  }
+]

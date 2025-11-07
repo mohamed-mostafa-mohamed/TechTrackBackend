@@ -1,0 +1,16 @@
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\TechTrack.BL.deps.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\TechTrack.BL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\TechTrack.BL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrack.BL.csproj.AssemblyReference.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrack.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrack.BL.AssemblyInfoInputs.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrack.BL.AssemblyInfo.cs
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrack.BL.csproj.CoreCompileInputs.cache
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrack.BL.sourcelink.json
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrac.A1818BB7.Up2Date
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrack.BL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\refint\TechTrack.BL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\TechTrack.BL.pdb
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\obj\Debug\net8.0\ref\TechTrack.BL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\TechTrack.DAL.dll
+C:\Users\Gelba\Desktop\TechTrack N-tier\CMS.BL\bin\Debug\net8.0\TechTrack.DAL.pdb

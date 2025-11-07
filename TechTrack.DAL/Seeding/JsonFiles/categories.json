@@ -1,0 +1,17 @@
+[
+  {
+    "CategoryId": 1,
+    "CategoryName": "Programming",
+    "Description": "Learn programming languages"
+  },
+  {
+    "CategoryId": 2,
+    "CategoryName": "Data Science",
+    "Description": "Learn Data Science skills"
+  },
+  {
+    "CategoryId": 3,
+    "CategoryName": "DevOps",
+    "Description": "Learn DevOps tools and practices"
+  }
+]

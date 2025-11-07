@@ -1,0 +1,14 @@
+[
+  {
+    "RoadmapId": 1,
+    "TrackId": 1,
+    "Title": "C# Beginner Roadmap",
+    "Description": "Steps to learn C#"
+  },
+  {
+    "RoadmapId": 2,
+    "TrackId": 2,
+    "Title": "Python Data Science Roadmap",
+    "Description": "Steps to learn Python for Data Science"
+  }
+]

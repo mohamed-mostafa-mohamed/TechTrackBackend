@@ -1,0 +1,16 @@
+[
+  {
+    "CompanyTechnologyId": 1,
+    "CompanyId": 1,
+    "TechnologyId": 1,
+    "UsageLevel": "Expert",
+    "Notes": "C# used in main product"
+  },
+  {
+    "CompanyTechnologyId": 2,
+    "CompanyId": 2,
+    "TechnologyId": 2,
+    "UsageLevel": "Intermediate",
+    "Notes": "Python used for analytics"
+  }
+]

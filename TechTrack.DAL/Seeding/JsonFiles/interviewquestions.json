@@ -1,0 +1,18 @@
+[
+  {
+    "QuestionId": 1,
+    "TechnologyId": 1,
+    "QuestionText": "Explain OOP concepts in C#",
+    "DifficultyLevel": "Intermediate",
+    "QuestionType": "Theory",
+    "SampleAnswer": "Classes, Inheritance, Polymorphism, Encapsulation"
+  },
+  {
+    "QuestionId": 2,
+    "TechnologyId": 2,
+    "QuestionText": "How do you manipulate DataFrames in Python?",
+    "DifficultyLevel": "Beginner",
+    "QuestionType": "Practical",
+    "SampleAnswer": "Using pandas library"
+  }
+]
