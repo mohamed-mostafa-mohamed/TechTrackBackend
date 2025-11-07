@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\seeding\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\track\\trackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\track\\trackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\seeding\\jsonfiles\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\seeding\\jsonfiles\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\technology\\technologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\technology\\technologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\subcategory\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\subcategory\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\cms.dal.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\cms.dal.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\roadmapsteps\\roadmapstepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\roadmapsteps\\roadmapstepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\cms.dal.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\cms.dal.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\subcategory\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\subcategory\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\technology\\technologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\technology\\technologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\track\\trackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\track\\trackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\seeding\\jsonfiles\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\seeding\\jsonfiles\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\roadmap\\roadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\constants\\entitynames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\constants\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\constants\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\roadmapstepmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\roadmapstepmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,40 +67,36 @@
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\technologymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\trackmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\trackmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\track\\trackpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\track\\trackpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\track\\trackgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\track\\trackgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\technology\\technologypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\technology\\technologypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\constants\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\constants\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\trackmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\trackmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\technology\\technologygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\technology\\technologygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\subcategory\\subcategorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\subcategory\\subcategorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\subcategory\\subcategorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\subcategory\\subcategorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|solutionrelative:cms.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\track\\trackpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\track\\trackpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\roadmap\\roadmappostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\roadmap\\roadmappostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\technology\\technologypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\technology\\technologypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\roadmap\\roadmapgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,20 +107,24 @@
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\roadmapmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\roadmapstep\\roadmapsteppostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\roadmapstep\\roadmapsteppostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\subcategory\\subcategorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\subcategory\\subcategorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|solutionrelative:cms.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\roadmapstep\\roadmapstepgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\roadmapstep\\roadmapstepgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\roadmap\\iroadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\roadmap\\iroadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\roadmapstep\\roadmapsteppostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\roadmapstep\\roadmapsteppostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\interviewquestionmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\interviewquestionmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\service\\roadmap\\iroadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\service\\roadmap\\iroadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\interviewquestions\\getinterviewquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,8 +135,8 @@
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\dtos\\interviewquestions\\createinterviewquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\companytechnologymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\companytechnologymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\interviewquestionmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\interviewquestionmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\compnaytech\\getcompanytechnologydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -155,8 +151,8 @@
       "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\companymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\companymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\companytechnologymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\companytechnologymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\company\\getcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -171,8 +167,8 @@
       "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\categorymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\techtrack.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\techtrack.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\mappingextensions\\companymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\mappingextensions\\companymappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\dtos\\category\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -191,24 +187,28 @@
       "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\seeding\\jsonfiles\\interviewquestions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\techtrack.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\techtrack.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.bl\\techtrack.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD8F460E-D3C6-4C4D-A6DA-42AD7C7333A3}|CMS.BL\\TechTrack.BL.csproj|solutionrelative:cms.bl\\techtrack.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.pl\\techtrack.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|solutionrelative:cms.pl\\techtrack.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\seeding\\jsonfiles\\companies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\seeding\\jsonfiles\\companies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|solutionrelative:cms.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\seeding\\jsonfiles\\companytechnologies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\seeding\\jsonfiles\\companytechnologies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|solutionrelative:cms.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\seeding\\jsonfiles\\companies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\seeding\\jsonfiles\\companies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.dal\\techtrack.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D5E89A4-CFF2-4F56-86BF-9F3BC24314F8}|CMS.DAL\\TechTrack.DAL.csproj|solutionrelative:cms.dal\\techtrack.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.pl\\techtrack.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|solutionrelative:cms.pl\\techtrack.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71C523B3-89EA-46EB-A801-B9E5D6B9C4E9}|CMS.PL\\TechTrack.PL.csproj|c:\\users\\gelba\\desktop\\techtrack n-tier\\cms.pl\\controllers\\interviewquestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -442,7 +442,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CMS.DAL.bat",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.DAL\\CMS.DAL.bat",
               "RelativeDocumentMoniker": "CMS.DAL\\CMS.DAL.bat",
@@ -454,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "RoadmapStepService.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\Service\\RoadmapSteps\\RoadmapStepService.cs",
               "RelativeDocumentMoniker": "CMS.BL\\Service\\RoadmapSteps\\RoadmapStepService.cs",
@@ -466,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SubCategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\Service\\SubCategory\\SubCategoryService.cs",
               "RelativeDocumentMoniker": "CMS.BL\\Service\\SubCategory\\SubCategoryService.cs",
@@ -478,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TechnologyService.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\Service\\Technology\\TechnologyService.cs",
               "RelativeDocumentMoniker": "CMS.BL\\Service\\Technology\\TechnologyService.cs",
@@ -490,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TrackService.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\Service\\Track\\TrackService.cs",
               "RelativeDocumentMoniker": "CMS.BL\\Service\\Track\\TrackService.cs",
@@ -502,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "categories.json",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.DAL\\Seeding\\JsonFiles\\categories.json",
               "RelativeDocumentMoniker": "CMS.DAL\\Seeding\\JsonFiles\\categories.json",
@@ -520,7 +520,7 @@
               "RelativeDocumentMoniker": "CMS.DAL\\Seeding\\DbSeeder.cs",
               "ToolTip": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.DAL\\Seeding\\DbSeeder.cs",
               "RelativeToolTip": "CMS.DAL\\Seeding\\DbSeeder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T11:20:30.125Z",
               "EditorCaption": ""
@@ -603,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "RoadmapStepMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\RoadmapStepMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\RoadmapStepMappingExtensions.cs",
@@ -615,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "SubCategoryMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\SubCategoryMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\SubCategoryMappingExtensions.cs",
@@ -627,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "TechnologyMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\TechnologyMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\TechnologyMappingExtensions.cs",
@@ -639,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "TrackGetDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Track\\TrackGetDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Track\\TrackGetDto.cs",
@@ -651,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ErrorMessages.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\Constants\\ErrorMessages.cs",
               "RelativeDocumentMoniker": "CMS.BL\\Constants\\ErrorMessages.cs",
@@ -663,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "TrackMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\TrackMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\TrackMappingExtensions.cs",
@@ -675,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "TechnologyGetDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Technology\\TechnologyGetDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Technology\\TechnologyGetDto.cs",
@@ -687,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "SubCategoryGetDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\SubCategory\\SubCategoryGetDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\SubCategory\\SubCategoryGetDto.cs",
@@ -699,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "TrackPostDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Track\\TrackPostDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Track\\TrackPostDto.cs",
@@ -711,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "RoadmapPostDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Roadmap\\RoadmapPostDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Roadmap\\RoadmapPostDto.cs",
@@ -723,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "TechnologyPostDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Technology\\TechnologyPostDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Technology\\TechnologyPostDto.cs",
@@ -735,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "RoadmapGetDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Roadmap\\RoadmapGetDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Roadmap\\RoadmapGetDto.cs",
@@ -747,7 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "RoadmapMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\RoadmapMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\RoadmapMappingExtensions.cs",
@@ -759,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "SubCategoryPostDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\SubCategory\\SubCategoryPostDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\SubCategory\\SubCategoryPostDto.cs",
@@ -771,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.PL\\Program.cs",
               "RelativeDocumentMoniker": "CMS.PL\\Program.cs",
@@ -783,7 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "RoadmapStepGetDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\RoadMapStep\\RoadmapStepGetDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\RoadMapStep\\RoadmapStepGetDto.cs",
@@ -795,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "RoadmapStepPostDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\RoadMapStep\\RoadmapStepPostDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\RoadMapStep\\RoadmapStepPostDto.cs",
@@ -819,7 +819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "GetInterviewQuestionDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\InterviewQuestions\\GetInterviewQuestionDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\InterviewQuestions\\GetInterviewQuestionDto.cs",
@@ -831,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "CreateInterviewQuestionDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\InterviewQuestions\\CreateInterviewQuestionDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\InterviewQuestions\\CreateInterviewQuestionDto.cs",
@@ -843,7 +843,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "InterviewQuestionMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\InterviewQuestionMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\InterviewQuestionMappingExtensions.cs",
@@ -855,7 +855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "GetCompanyTechnologyDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\CompnayTech\\GetCompanyTechnologyDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\CompnayTech\\GetCompanyTechnologyDto.cs",
@@ -867,7 +867,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "CreateCompanyTechnologyDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\CompnayTech\\CreateCompanyTechnologyDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\CompnayTech\\CreateCompanyTechnologyDto.cs",
@@ -879,7 +879,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.DAL\\Models\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "CMS.DAL\\Models\\Entities\\Category.cs",
@@ -891,7 +891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "CompanyTechnologyMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\CompanyTechnologyMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\CompanyTechnologyMappingExtensions.cs",
@@ -903,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "GetCompanyDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Company\\GetCompanyDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Company\\GetCompanyDto.cs",
@@ -915,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "CreateCompanyDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Company\\CreateCompanyDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Company\\CreateCompanyDto.cs",
@@ -927,7 +927,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "CategoryMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\CategoryMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\CategoryMappingExtensions.cs",
@@ -939,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "CompanyMappingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\MappingExtensions\\CompanyMappingExtensions.cs",
               "RelativeDocumentMoniker": "CMS.BL\\MappingExtensions\\CompanyMappingExtensions.cs",
@@ -951,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "CategoryPostDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Category\\CategoryPostDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Category\\CategoryPostDto.cs",
@@ -963,7 +963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "CategoryGetDto.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\DTOs\\Category\\CategoryGetDto.cs",
               "RelativeDocumentMoniker": "CMS.BL\\DTOs\\Category\\CategoryGetDto.cs",
@@ -975,7 +975,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "RoadmapStepRepository.cs",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.DAL\\Repo\\RoadmapSteps\\RoadmapStepRepository.cs",
               "RelativeDocumentMoniker": "CMS.DAL\\Repo\\RoadmapSteps\\RoadmapStepRepository.cs",
@@ -987,7 +987,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "interviewquestions.json",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.DAL\\Seeding\\JsonFiles\\interviewquestions.json",
               "RelativeDocumentMoniker": "CMS.DAL\\Seeding\\JsonFiles\\interviewquestions.json",
@@ -999,7 +999,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "TechTrack.BL.csproj",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.BL\\TechTrack.BL.csproj",
               "RelativeDocumentMoniker": "CMS.BL\\TechTrack.BL.csproj",
@@ -1011,7 +1011,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 47,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.PL\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CMS.PL\\Properties\\launchSettings.json",
@@ -1023,7 +1023,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "companytechnologies.json",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.DAL\\Seeding\\JsonFiles\\companytechnologies.json",
               "RelativeDocumentMoniker": "CMS.DAL\\Seeding\\JsonFiles\\companytechnologies.json",
@@ -1047,7 +1047,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "TechTrack.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.DAL\\TechTrack.DAL.csproj",
               "RelativeDocumentMoniker": "CMS.DAL\\TechTrack.DAL.csproj",
@@ -1059,7 +1059,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "TechTrack.PL.csproj",
               "DocumentMoniker": "C:\\Users\\Gelba\\Desktop\\TechTrack N-tier\\CMS.PL\\TechTrack.PL.csproj",
               "RelativeDocumentMoniker": "CMS.PL\\TechTrack.PL.csproj",
